@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9vd+IXNwqJ/zHqhel2EXP1I+9WLrPS3SiW8L8RWAFPtfY242ttJXgbAqHyTUGRfdOyMvLQEgrA8YVynf/U79/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\coolc\\Desktop\\coding stuff\\Mobile\\BMICalc\\BMICalc\\BMICalc.iOS\\BMICalc.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

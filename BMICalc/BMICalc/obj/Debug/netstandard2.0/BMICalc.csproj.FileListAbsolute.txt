@@ -1,0 +1,14 @@
+C:\Users\coolc\Desktop\coding stuff\Mobile\BMICalc\BMICalc\BMICalc\bin\Debug\netstandard2.0\BMICalc.deps.json
+C:\Users\coolc\Desktop\coding stuff\Mobile\BMICalc\BMICalc\BMICalc\bin\Debug\netstandard2.0\BMICalc.dll
+C:\Users\coolc\Desktop\coding stuff\Mobile\BMICalc\BMICalc\BMICalc\bin\Debug\netstandard2.0\ref\BMICalc.dll
+C:\Users\coolc\Desktop\coding stuff\Mobile\BMICalc\BMICalc\BMICalc\bin\Debug\netstandard2.0\BMICalc.pdb
+C:\Users\coolc\Desktop\coding stuff\Mobile\BMICalc\BMICalc\BMICalc\obj\Debug\netstandard2.0\BMICalc.csprojAssemblyReference.cache
+C:\Users\coolc\Desktop\coding stuff\Mobile\BMICalc\BMICalc\BMICalc\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\coolc\Desktop\coding stuff\Mobile\BMICalc\BMICalc\BMICalc\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\coolc\Desktop\coding stuff\Mobile\BMICalc\BMICalc\BMICalc\obj\Debug\netstandard2.0\BMICalc.AssemblyInfoInputs.cache
+C:\Users\coolc\Desktop\coding stuff\Mobile\BMICalc\BMICalc\BMICalc\obj\Debug\netstandard2.0\BMICalc.AssemblyInfo.cs
+C:\Users\coolc\Desktop\coding stuff\Mobile\BMICalc\BMICalc\BMICalc\obj\Debug\netstandard2.0\BMICalc.csproj.CoreCompileInputs.cache
+C:\Users\coolc\Desktop\coding stuff\Mobile\BMICalc\BMICalc\BMICalc\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\coolc\Desktop\coding stuff\Mobile\BMICalc\BMICalc\BMICalc\obj\Debug\netstandard2.0\BMICalc.dll
+C:\Users\coolc\Desktop\coding stuff\Mobile\BMICalc\BMICalc\BMICalc\obj\Debug\netstandard2.0\ref\BMICalc.dll
+C:\Users\coolc\Desktop\coding stuff\Mobile\BMICalc\BMICalc\BMICalc\obj\Debug\netstandard2.0\BMICalc.pdb
